@@ -1,0 +1,2 @@
+# AMS
+Atlas Manual Style
